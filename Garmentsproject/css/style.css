@@ -1,0 +1,52 @@
+.boxreference{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7f9189+0,28343b+82&0.84+0,0.86+100 */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#36353d+0,0e0e0e+95,0e0e0e+100 */
+background: #36353d; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #36353d 0%, #0e0e0e 95%, #0e0e0e 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #36353d 0%,#0e0e0e 95%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #36353d 0%,#0e0e0e 95%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36353d', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+color: #819893;
+text-align: center;
+font-weight: 700;
+margin-left: 50px;
+margin-right: 20px;
+height: 100px;
+padding-top: 35px;
+text-align: center;
+text-decoration: none;
+}
+
+.boxreference:hover{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#383431+0,383431+100&0.84+1,0.86+100 */
+background: -moz-radial-gradient(center, ellipse cover, rgba(56,52,49,0.84) 0%, rgba(56,52,49,0.84) 1%, rgba(56,52,49,0.86) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(56,52,49,0.84) 0%,rgba(56,52,49,0.84) 1%,rgba(56,52,49,0.86) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(56,52,49,0.84) 0%,rgba(56,52,49,0.84) 1%,rgba(56,52,49,0.86) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6383431', endColorstr='#db383431',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+color: #DBD7D7;
+text-decoration: none;
+}
+
+.container{
+	margin-top: 80px;
+}
+
+.formdiv{
+	width: 70%;
+	margin-top:55px ; 
+	text-align: left; 
+	color: #C2C1C1;
+	padding: 10px 30px;
+	box-shadow: 10px 10px 10px #131313;
+}
+.lebel{
+	margin-right: 3px;
+	text-align: right;
+	
+}
+.form-control{
+	background-color: transparent;
+	color: #6CB4A6;
+
+}
